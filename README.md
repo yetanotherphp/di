@@ -1,4 +1,3 @@
-di
-==
+PHP Dependency Injection Container
+==================================
 
-Yet another php dependency injection container
